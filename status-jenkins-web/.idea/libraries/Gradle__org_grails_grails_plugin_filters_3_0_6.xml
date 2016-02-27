@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-plugin-filters:3.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-filters/3.0.6/dd40b76fda3c0c46199462a979ae7c0c3a9c25b3/grails-plugin-filters-3.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-filters/3.0.6/a02c4951ed3589c3b2e72a192b43efce4bee505c/grails-plugin-filters-3.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

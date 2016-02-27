@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-plugin-testing:3.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.0.6/a0b4c9e8253af7092f460e76abfc47303d658cdc/grails-plugin-testing-3.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.0.6/ff669548a04096f7c8011a4436e845c0c57124e1/grails-plugin-testing-3.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

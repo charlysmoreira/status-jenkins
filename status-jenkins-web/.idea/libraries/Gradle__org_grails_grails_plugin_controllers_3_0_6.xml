@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-plugin-controllers:3.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.0.6/e3d00258693da2102de763e5a79dd1ca08be24fe/grails-plugin-controllers-3.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.0.6/e76409dd1dd8196bc2cae7b3253856be1e3f440f/grails-plugin-controllers-3.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
